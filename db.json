@@ -152,6 +152,13 @@
             "Description": "Bolig",
             "MeterId": "73123456789",
             "MeteringPointId": "7070123456789"
+        },
+        {
+            "DeliveryPointIdentification": "b61xjpgy5Men2yJRdYBS",
+            "FlattenedAddress": "Borealis 99, 0003 Tellus",
+            "Description": "Hytte",
+            "MeterId": "73123456799",
+            "MeteringPointId": "7070123456799"
         }
     ],
     "selectedDeliveryPoint": {
